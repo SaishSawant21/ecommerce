@@ -1,0 +1,68 @@
+2022-04-30T09:16:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\widgets\class-wp-widget-recent-posts.php on line 185
+
+2022-04-30T09:17:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\blocks.php on line 234
+
+2022-04-30T09:20:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 77
+
+2022-04-30T09:26:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-tax-classes-v1-controller.php on line 11
+
+2022-04-30T09:30:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\media-template.php on line 1514
+
+2022-04-30T09:33:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\ImportScheduler.php on line 8
+
+2022-04-30T09:33:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php on line 8
+
+2022-04-30T09:33:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\nux\class-storefront-nux-admin.php on line 9
+
+2022-04-30T09:33:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Integrations\IntegrationRegistry.php on line 180
+
+2022-04-30T09:34:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Taxes\DataStore.php on line 8
+
+2022-04-30T09:34:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php on line 10
+
+2022-04-30T09:34:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-footer-pixel.php on line 114
+
+2022-04-30T09:36:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-admin\includes\class-wp-privacy-data-removal-requests-list-table.php on line 10
+
+2022-04-30T09:36:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Products\Stats\Controller.php on line 10
+
+2022-04-30T09:36:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\DataStore.php on line 8
+
+2022-04-30T09:39:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\functions.php on line 4488
+
+2022-04-30T09:39:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\functions.php on line 4488
+
+2022-04-30T09:39:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php on line 10
+
+2022-04-30T09:39:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\Requests\Response\Headers.php on line 13
+
+2022-04-30T09:39:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-settings.php on line 11
+
+2022-04-30T09:39:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-settings.php on line 11
+
+2022-04-30T09:39:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-admin\includes\media.php on line 3843
+
+2022-04-30T09:40:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-admin\includes\plugin-install.php on line 895
+
+2022-04-30T09:41:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\customizer\class-storefront-customizer.php on line 9
+
+2022-04-30T09:41:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\storefront-functions.php on line 8
+
+2022-04-30T09:41:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\customizer\class-storefront-customizer.php on line 9
+
+2022-04-30T09:41:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\admin\class-storefront-admin.php on line 9
+
+2022-04-30T09:41:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\CustomerEffortScoreTracks.php on line 10
+
+2022-04-30T09:41:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\OnboardingTasks\DeprecatedOptions.php on line 76
+
+2022-04-30T09:41:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\OnboardingTasks\TaskList.php on line 13
+
+2022-04-30T09:41:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\OnboardingTasks\TaskTraits.php on line 8
+
+2022-04-30T09:41:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\themes\storefront.3.9.1\storefront\inc\nux\class-storefront-nux-starter-content.php on line 9
+
+2022-04-30T09:41:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-includes\functions.php on line 4476
+
+2022-04-30T09:41:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\saish\Documents\New folder\htdocs\ecommerce\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 12
+
